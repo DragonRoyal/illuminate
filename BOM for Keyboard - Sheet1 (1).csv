@@ -1,0 +1,12 @@
+Type,Qty,Value,Exclude from BOM,Exclude from Board,Footprint,Price (with tax)
+Microcontroller,1,RaspberryPi_Pico,FALSE,FALSE,Module:RaspberryPi_Pico_Common_Unspecified,$4
+Diode,79,Diode 14B,FALSE,FALSE,Diode_SMD:D_SOD-123,$15
+Led,78,WS2812B,FALSE,FALSE,PCM_marbastlib-various:SK6812 Mini-E Leds,$10
+Rotary Encoder,1,EC11 Rotary Encoder,FALSE,FALSE,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,$3
+Switch,78,Gateroen banana low profile,FALSE,FALSE,PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u,$25
+Screen,1,1.47in TFT screen,TRUE,FALSE,PCM_marbastlib-various:1.47IN TFT_SCREEN,
+Level Converter,1,3.3V 5V Level Shifter,TRUE,FALSE,PCM_marbastlib-various:level_shifter,
+3D printed parts (plate+case),1,PLA filament 500g,TRUE,FALSE,None,
+Key Caps,78,Key Cap set,FALSE,TRUE,None,$15
+Hot Swap pieces,78,Pieces to enable hotswapping,FALSE,FALSE,None,$13
+PCB Board,1,Pcb from JLCPCB,FALSE,FALSE,,$78
